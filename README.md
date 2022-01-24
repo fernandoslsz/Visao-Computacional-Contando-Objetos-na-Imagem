@@ -23,6 +23,9 @@ Projeto termiando.
 Primeiramente para funcionar é preciso ter a biblioteca cvlib instalada porque será ela a responsável
 por detectar e  fazer a contagem dos objetos que nesse caso será carros na imagem. Caso não tenha a 
 biblioteca instalada utilize pip para fazer a instalação.
-Em seguida baixa as seguintes bibliotecas:
 ![visao-computacional-1](https://user-images.githubusercontent.com/64037517/150704137-49fd6e8b-6f2a-49ea-85bd-890e0d6630c6.png)
+
+
+
+
 
